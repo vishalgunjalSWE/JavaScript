@@ -1,0 +1,25 @@
+# JAVASCRIPT CHALLENGE WITH CHAI AUR CODE START FROM 7 DEC. 2024
+
+- ` 1:` Variables and Data Types in JavaScript
+- ` 2:` Operators in JavaScript
+- ` 3:` Control Structures in JavaScript
+- ` 4:` Loops in JavaScript
+- ` 5:` Functions in JavaScript
+- ` 6:` Arrays in JavaScript
+- ` 7:` Objects in JavaScript
+- ` 8:` Modern JavaScript Features
+- ` 9:` DOM Manipulation in JavaScript
+- ` 10:` Event Handling in JavaScript
+- ` 11:` Promises and Async/Awaitin JavaScript
+- ` 12:` Error Handling in JavaScript
+- ` 13:` JavaScript Module Activities
+- ` 14:` Classes in JavaScript
+- ` 15:` Closures in JavaScript
+- ` 16:` Recursion in JavaScript
+- ` 17:` Data Structures in JavaScript
+- ` 18:` Algorithms in JavaScript
+- ` 19:` Regular Expressions in JavaScript
+- ` 20:` LocalStorage and SessionStorage in JavaScript
+- ` 21:` LeetCode Easy
+- ` 22:` LeetCode Medium
+- ` 23:` LeetCode Hard
